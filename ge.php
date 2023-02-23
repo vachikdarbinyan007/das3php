@@ -1,0 +1,17 @@
+<?php
+define("infober","Berlin [bɛr'li:n] Audiodatei abspielen ist die Hauptstadt[14] und ein Land der Bundesrepublik Deutschland. Die Stadt ist mit rund 3,7 Millionen Einwohnern die bevölkerungsreichste und mit 892 Quadratkilometern die flächengrößte Gemeinde Deutschlands sowie die bevölkerungsreichste Stadt der Europäischen Union.[4] Die Stadt hat mit 4123 Einwohnern pro Quadratkilometer die dritthöchste Bevölkerungsdichte Deutschlands. In der Agglomeration Berlin leben knapp 4,7 Millionen Einwohner, in der Hauptstadtregion Berlin-Brandenburg rund 6,2 Millionen.");
+define("infolon","London (deutsche Aussprache [ˈlɔndɔn], englische Aussprache [ˈlʌndən]) ist die Hauptstadt des Vereinigten Königreichs und des Landesteils England. Die Stadt liegt an der Themse in Südostengland auf der Insel Großbritannien. Das heutige Verwaltungsgebiet mit den insgesamt 33 Stadtbezirken entstand im Jahr 1965 mit der Gründung von Greater London. Dort lebten 2019 rund 8,96 Millionen Menschen, davon rund 3,3 Millionen in den 13 Stadtbezirken von Inner London.");
+define("infowash","Der District of Columbia oder Washington, D.C. [ˈwɔʃɪŋtn̩] ist Bundesdistrikt, Regierungssitz und seit 1801 die Hauptstadt der Vereinigten Staaten. Der Distrikt ist kein Bundesstaat und ist keinem zugehörig. Er ist vielmehr dem Kongress der Vereinigten Staaten direkt unterstellt. Trotz Namensgleichheit mit dem Bundesstaat Washington an der Westküste der Vereinigten Staaten wird Washington, D.C. im deutschen Sprachraum meist nur „Washington“ genannt; D.C. steht dabei für den District of Columbia.");
+define("infomoskva","Moskau (russisch Москва́ [mɐskˈva] Audiodatei abspielen, Moskwa) ist die Hauptstadt der Russischen Föderation. Mit rund 12,7 Millionen Einwohnern (Stand 2020)[2] ist sie die größte Stadt sowie mit 15,1 Millionen Einwohnern (2012)[3] die größte Agglomeration Europas.");
+define("infopekin","Peking, auch Beijing (chinesisch 北京, Pinyin Běijīng, W.-G. Pei-ching – „Nördliche Hauptstadt“, [pei˨˩tɕiŋ˥˥] Audiodatei abspielen), ist die Hauptstadt der Volksrepublik China. Peking hat eine über dreitausendjährige Geschichte und ist eine der vier regierungsunmittelbaren Städte, d. h., sie hat den Rang einer Provinz.");
+define("infoyere","Jerewan, auch Eriwan oder Erewan (armenisch Երևան; IPA: jɛɾɛˈvɑn,  anhören?/i – amtlich – ostarmenisch oder Երեւան – traditionell – westarmenisch), ist die Hauptstadt und mit 1.091.700 Einwohnern (Stand 2021)[1] die größte Stadt Armeniens. Jerewan, eine der ältesten Städte der Welt,[3][4] ist auch das wirtschaftliche, kulturelle und wissenschaftliche Zentrum des Landes und wegen der Größe der Stadt eine eigene Provinz.");
+define("FName","Vorname");
+define("LName","Nachname");
+define("text","Text");
+define("home","Haupt");
+define("about","Über uns");
+define("tours","Tours");
+define("conntact","Konntakt");
+define("webextour","Webex Tour");
+define("lorem","Ein Flugzeug ist ein Luftfahrzeug, das schwerer als Luft ist und den zu seinem Fliegen nötigen dynamischen Auftrieb mit nicht-rotierenden Auftriebsflächen erzeugt. In der enger gefassten Definition der Internationalen Zivilluftfahrtorganisation (ICAO) ist es auch immer ein motorisiertes Luftfahrzeug. Der Betrieb von Flugzeugen, die am Luftverkehr teilnehmen, wird durch Luftverkehrsgesetze geregelt.Umgangssprachlich werden Flugzeuge mitunter auch „Flieger“ genannt,[1] der Ausdruck Flieger hat als Hauptbedeutung jedoch den Piloten.")
+?>
